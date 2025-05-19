@@ -51,6 +51,6 @@
 
 通过分析每个团伙的规模和交易特征，可以评估团伙的活动规模和经济影响。
 
-![聚类分析可视化结果](群控/result/cluster_analysis.png)
+![聚类分析可视化结果](./result/cluster_analysis.png)
 ![聚类分析可视化结果](群控/result/visualization/feature_correlation.png)
 ![聚类分析可视化结果](群控/result/visualization/group_size_distribution.png)
