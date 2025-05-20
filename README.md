@@ -51,6 +51,10 @@
 
 通过分析每个团伙的规模和交易特征，可以评估团伙的活动规模和经济影响。
 
+P1:交易频率 vs 交易金额
+P2:屏幕使用时间 vs 应用跳转次数
+P3:各聚类的设备数量
+P4:各类型的设备数量
 ![聚类分析可视化结果](./result/cluster_analysis.png)
 ![聚类分析可视化结果](./result/visualization/feature_correlation.png)
 ![聚类分析可视化结果](./result/visualization/group_size_distribution.png)
