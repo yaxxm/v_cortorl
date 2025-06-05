@@ -56,5 +56,4 @@ P2:屏幕使用时间 vs 应用跳转次数
 P3:各聚类的设备数量
 P4:各类型的设备数量
 ![聚类分析可视化结果](./result/cluster_analysis.png)
-![聚类分析可视化结果](./result/visualization/feature_correlation.png)
-![聚类分析可视化结果](./result/visualization/group_size_distribution.png)
+
